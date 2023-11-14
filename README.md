@@ -90,4 +90,4 @@ berbeda-beda sesuai pilihan pekerjaan.
 
 ![img](Screenshot/Tugas1.PNG)
 
-![img](Screenshot/Output Tugas.PNG)
+![img](Screenshot/Output%20Tugas.PNG)
