@@ -86,3 +86,8 @@ berbeda-beda sesuai pilihan pekerjaan.
 </html>
 ```
 ### Output/Hasil dari program diatas :
+![img](Screenshot/Tugas.PNG)
+
+![img](Screenshot/Tugas1.PNG)
+
+![img](Screenshot/Output Tugas.PNG)
